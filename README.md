@@ -7,13 +7,13 @@
 
 ## About this Course
 
-Cloud computing systems today, whether open-source or used inside companies, are built using a common set of core techniques, algorithms, and design philosophies – all centered around distributed systems. Learn about such fundamental distributed computing "concepts" for cloud computing.
+- Cloud computing systems today, whether open-source or used inside companies, are built using a common set of core techniques, algorithms, and design philosophies – all centered around distributed systems. Learn about such fundamental distributed computing "concepts" for cloud computing.
  
-Some of these concepts include: clouds, MapReduce, key-value/NoSQL stores, classical distributed algorithms, widely-used distributed algorithms, scalability, trending areas, and much, much more! 
+- Some of these concepts include: clouds, MapReduce, key-value/NoSQL stores, classical distributed algorithms, widely-used distributed algorithms, scalability, trending areas, and much, much more! 
  
-Know how these systems work from the inside out. Get your hands dirty using these concepts with provided homework exercises. In the programming assignments, implement some of these concepts in template code (programs) provided in the C++ programming language. Prior experience with C++ is required.
+- Know how these systems work from the inside out. Get your hands dirty using these concepts with provided homework exercises. In the programming assignments, implement some of these concepts in template code (programs) provided in the C++ programming language. Prior experience with C++ is required.
  
-The course also features interviews with leading researchers and managers, from both industry and academia.
+- The course also features interviews with leading researchers and managers, from both industry and academia.
 
 ## Resources
 - [Course Resouces](./resources)
@@ -25,7 +25,6 @@ The course also features interviews with leading researchers and managers, from 
 - Overview
 - [Note](./week1/README.md)
 - [Slides](./week1/slides)
-- [Projects](./week1/projects)
 - [Attachments](./week1/attachments)
 
 
@@ -33,7 +32,6 @@ The course also features interviews with leading researchers and managers, from 
 - Overview
 - [Note](./week2/README.md)
 - [Slides](./week2/slides)
-- [Projects](./week2/projects)
 - [Attachments](./week2/attachments)
 
 
@@ -41,7 +39,6 @@ The course also features interviews with leading researchers and managers, from 
 - Overview
 - [Note](./week3/README.md)
 - [Slides](./week3/slides)
-- [Projects](./week3/projects)
 - [Attachments](./week3/attachments)
 
 
@@ -49,7 +46,6 @@ The course also features interviews with leading researchers and managers, from 
 - Overview
 - [Note](./week4/README.md)
 - [Slides](./week4/slides)
-- [Projects](./week4/projects)
 - [Attachments](./week4/attachments)
 
 
@@ -57,5 +53,4 @@ The course also features interviews with leading researchers and managers, from 
 ### Week5
 - [Note](./week5/README.md)
 - [Slides](./week5/slides)
-- [Projects](./week5/projects)
 - [Attachments](./week5/attachments)
