@@ -289,6 +289,15 @@ Tow pointers
 
 #### successors
 ![p2p11.png](resources/p2p11.png)
+
+Uses Consistent Hashing on node’s (peer’s) address   
+- SHA-1(ip_address,port) -> 160 bit string
+- Truncated to m bits
+- Called peer id (number between 0 and $2^m-1$)
+- Not unique but id conflicts very unlikely
+- Can then map peers to one of $2^m$ logical points on a circle
+
+
 #### finger tables
 ![p2p12.png](resources/p2p12.png)
 
